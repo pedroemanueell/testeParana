@@ -52,7 +52,7 @@ color.diff=auto
 1. Executar o git bash
 2. Navegue entre as pastas para definir em qual pasta ficarão os arquivos do projeto
     - Ex.: CD C:/   <-Aqui o bash está acessando o disco C, ou seja, os arquivos ficarão aqui
-    - Ex2.: CD C:/MeuComputador <-Aqui o bash está acessando a pasta MeuTudo, ou seja, os arquivos ficarão aqui
+    - Ex2.: CD C:/MeuComputador <-Aqui o bash está acessando a pasta MeuComputador, ou seja, os arquivos ficarão aqui
 3. Executar o comando
 ```bash
 $ link do git
